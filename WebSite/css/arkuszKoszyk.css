@@ -1,0 +1,87 @@
+#koszyk
+{
+	margin-left:25%;
+	color: #FFF;
+	font-size: 20px;
+}
+
+#Shopping_Cart
+{
+	float:right;
+	margin-top:-450px;
+	margin-left:10%;
+	margin-right:15%;
+	color:black;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FFFFFF;
+	height: auto;
+    width: 500px;
+	background-color:#FFFFFF;
+}
+#Shopping_Cart > h5
+{
+	text-align:center;
+	margin-top:3px;
+}
+#tabela
+{
+	height:auto;
+	width:auto;
+}
+#paragraf
+{
+	font-size: 18px;
+	margin-bottom:-10px;
+}
+
+#tabelaKoszyk
+{
+	text-align:center;
+}
+
+#th1{margin-right:20px;}
+#th2{margin-left:20px;}
+#th3{margin-left:20px;}
+
+.addCar
+{
+	margin-left:20%;
+	text-decoration: none;
+	text-align:center;
+	color:black;
+	border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+    width: 120px;
+}
+#blokmain
+{
+	background-color:#FFFFFF;
+	margin-top:60px;
+	width:500px;
+	margin-left:5%;
+	height:auto;
+	color:black;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FFFFFF;
+	text-align:left;
+}
+
+.cena
+{
+	margin-left:40%;
+	color:green;
+}
+.blokszczegoly
+{
+	margin-left:20%;
+}
+.obrazek
+{
+	height:150px;
+	width:200px;
+}
